@@ -61,7 +61,7 @@ export default {
     },
     methods: {
         signup(){
-            axios.post('/api/signup', this.form)
+            axios.post('/api/signup/', this.form)
             .then(response => {
                 User.responseAfterLogin(response)
                 Toast.fire({
