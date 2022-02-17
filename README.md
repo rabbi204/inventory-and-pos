@@ -62,19 +62,24 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 <figure>
     <img src="/screenshot/pay-sallary.png">
     <figcaption>Sallary payment Page</figcaption>
-</figure><figure>
+</figure>
+<figure>
     <img src="/screenshot/sallary-all.png">
     <figcaption>Employee salary list Page</figcaption>
-</figure><figure>
+</figure>
+<figure>
     <img src="/screenshot/stock.png">
     <figcaption>Stock Page</figcaption>
-</figure><figure>
+</figure>
+<figure>
     <img src="/screenshot/today-order.png">
     <figcaption>Today order list</figcaption>
-</figure><figure>
+</figure>
+<figure>
     <img src="/screenshot/search-order.png">
     <figcaption>Search order Page</figcaption>
-</figure><figure>
+</figure>
+<figure>
     <img src="/screenshot/pos.png">
     <figcaption>Pos UI</figcaption>
 </figure>
